@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94716159814', 'Sandaru Official²⁰²4', true],
+  ['94716159814', '𓄂 𝙰𝙻𝚘𝚗𝚎 𝚜𝚊𝚓𝚊࿐²⁰²4', true],
   ['94716159814', 'Sandaru Official²⁰²4', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['94716159814','94716159814'] 
-global.prems = ['94716159814', '94716159814', '94716159814']
+global.mods = ['94740273578','94740273578'] 
+global.prems = ['94740273578', '94740273578', '94740273578']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -52,10 +52,10 @@ global.premium = 'true'
 global.packname = '💝 Queen Hentai 💝 Created By 💝 Sandaru Official²⁰²4 💝' 
 global.author = '💝 Sandaru Official²⁰²4 💝' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Sandaru Official²⁰²4\n' 
-global.dygp = 'https://chat.whatsapp.com/KQAuEdIPHUCDA2aCCaeZlj'
+global.dygp = 'https://chat.whatsapp.com/GmvpSn3gDvw0svXoknTDL9'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/KQAuEdIPHUCDA2aCCaeZlj'
-global.fgpyp = 'https://chat.whatsapp.com/KQAuEdIPHUCDA2aCCaeZlj'
+global.fgyt = 'https://chat.whatsapp.com/GmvpSn3gDvw0svXoknTDL9'
+global.fgpyp = 'https://chat.whatsapp.com/GmvpSn3gDvw0svXoknTDL9'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
